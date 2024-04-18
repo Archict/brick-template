@@ -1,10 +1,10 @@
 {
-    "name": "gashmob/project-template",
-    "description": "Template for PHP project with composer",
-    "type": "library",
+    "name": "archict/brick-template",
+    "description": "Template for Bricks",
+    "type": "archict-brick",
     "autoload": {
         "psr-4": {
-            "Gashmob\\ProjectTemplate\\": "include/"
+            "Archict\\BrickTemplate\\": "include/"
         }
     },
     "require": {
@@ -12,7 +12,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Gashmob\\ProjectTemplate\\": "tests/unit"
+            "Archict\\BrickTemplate\\": "tests/unit"
         }
     },
     "require-dev": {

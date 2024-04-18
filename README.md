@@ -1,5 +1,3 @@
-# PHP Composer project template
+# Brick template
 
-This PHP template uses composer to manage dependencies and autoload.
-
-To begin use this template, just change the namespace in `composer.json`.
+This repository is a template to create your own Brick.
